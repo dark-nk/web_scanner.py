@@ -48,7 +48,7 @@ A powerful automated web vulnerability scanner for ethical hacking and security 
 #### Method 1: Quick Install (Recommended)
 ```bash
 # Clone repository
-git clone https://github.com/G0STK9M/website-vulnerability-scanner.git
+git clone https://github.com/dark-nk/web_scanner.py.git
 
 # Navigate to directory
 cd website-vulnerability-scanner
@@ -217,4 +217,4 @@ Compatibility
 ✅ Other Linux distributions
 
 
-Made with ❤️ by G0$T×K9M
+Made with ❤️ by darknk
