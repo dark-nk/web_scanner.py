@@ -120,7 +120,7 @@ class WebVulnScanner:
         print("\033[91m" + banner + "\033[0m")
         print("\033[92m" + "=" * 60 + "\033[0m")
         print("\033[96mTool Name  : Website Vulnerability Scanner\033[0m")
-        print("\033[96mTools Maker: G0$T×K9M\033[0m")
+        print("\033[96mTools Maker: DARK-NK\033[0m")
         print("\033[96mVersion    : 2.0\033[0m")
         print("\033[92m" + "=" * 60 + "\033[0m")
         print(f"[+] Target URL: {self.target_url}")
@@ -770,4 +770,5 @@ if __name__ == "__main__":
         sys.exit(0)
     except Exception as e:
         print(f"\n[-] Error: {str(e)}")
+
         sys.exit(1)
